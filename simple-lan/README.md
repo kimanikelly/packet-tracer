@@ -16,4 +16,5 @@
 
 ### Assign the server an IP Address & Subnet Mask
 
--
+1. Hover over the Server and click it once.
+2. The Desktop page should populate. [Example of the Desktop page](./docs/desktop-page.png)
