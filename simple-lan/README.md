@@ -1,8 +1,8 @@
 # Simple-LAN
 
-## Network Hardware Setup
+## Hardware Setup
 
-![Packet Tracer](/docs/hardware-setup.png)
+![Hardware Setup](./docs/hardware-setup.png)
 
 ### PC-PT PC1
 
