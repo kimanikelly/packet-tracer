@@ -27,3 +27,4 @@
 9. Once you're back in the Desktop page hover over the Command Prompt icon and click it once.
    10.The Command Line should populate. [Command Line](./docs/command-line.png)
 10. Within the Command Line type the command `ipconfig` to verify the IP Address & Subnet Mask. [Verifying the IP Address & Subnet Mask](./docs/ipconfig.png)
+11. Within the Command Line type the command `ping` followed by the IP Address the server is assigned to verify that its online and reachable. [Verifying with ping](./docs/ping.png)
