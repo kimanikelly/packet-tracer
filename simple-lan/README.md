@@ -2,6 +2,8 @@
 
 ## Network Hardware Setup
 
+![Packet Tracer](/docs/hardware-setup.png)
+
 ### PC-PT PC1
 
 - Selected from End Devices/PC
