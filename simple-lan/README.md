@@ -17,6 +17,8 @@
 ### Assign the server an IP Address & Subnet Mask
 
 1. Hover over the Server and click it once.
-2. The Desktop page should populate. [Example of the Desktop page](./docs/desktop-page.png)
+2. The Desktop page should populate. [Desktop page](./docs/desktop-page.png)
 3. Once you've navigated to the Desktop page hover over the IP Configuration icon and click it once.
-4. The IP Configuration page should populate. [Example of the IP Configuration page](./docs/ip-configuration-page.png)
+4. The IP Configuration page should populate. [IP Configuration page](./docs/ip-configuration-page.png)
+5. Verify the Static radio button is selected.
+6. Within the IPv4 Address input field enter an IP Address [Assigning IPv4 Address](./docs/ipv4.png)
