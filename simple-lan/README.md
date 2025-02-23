@@ -14,6 +14,6 @@
 
 ## Network Setup
 
-## Assign the server an IP Address & Subnet Mask
+### Assign the server an IP Address & Subnet Mask
 
 -
