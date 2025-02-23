@@ -26,3 +26,4 @@
 8. Exit out of the IP Configuration page, this should bring you back to the Desktop page.
 9. Once you're back in the Desktop page hover over the Command Prompt icon and click it once.
    10.The Command Line should populate. [Command Line](./docs/command-line.png)
+10. Within the Command Line type the command `ipconfig` to verify the IP Address & Subnet Mask. [Verifying the IP Address & Subnet Mask](./docs/ipconfig.png)
