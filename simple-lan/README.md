@@ -22,3 +22,4 @@
 4. The IP Configuration page should populate. [IP Configuration page](./docs/ip-configuration-page.png)
 5. Verify the Static radio button is selected.
 6. Within the IPv4 Address input field enter an IP Address [Assigning IPv4 Address](./docs/ipv4.png)
+7. Within the Subnet Mask input field enter a Subnet Mask [Assigning Subnet Mask](./docs/subnet-mask.png)
